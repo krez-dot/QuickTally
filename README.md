@@ -35,7 +35,6 @@ WMA4 Advanced Web Development — Midterm Phase project. Built with native PHP
 ## Project structure
 
 ```
-pos_system/
 ├── config/database.php        DB connection constants
 ├── classes/
 │   ├── Database.php           PDO singleton connection
